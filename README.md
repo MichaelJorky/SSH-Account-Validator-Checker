@@ -26,6 +26,16 @@ Aplikasi ini dirancang untuk kebutuhan edukasi, testing koneksi SSH, dan pembela
 
 ---
 
+## 🖼️ Tampilan Aplikasi
+
+Berikut adalah tampilan antarmuka **SSH Account Validator**:
+
+```markdown
+![SSH Account Validator UI](assets/Free SSH Account Validator.jpg)
+```
+
+---
+
 ## 📂 Format File Akun (`account.txt`)
 
 Semua data akun SSH disimpan dan dibaca dari file berikut:
