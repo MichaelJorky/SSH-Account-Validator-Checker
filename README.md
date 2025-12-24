@@ -30,9 +30,9 @@ Aplikasi ini dirancang untuk kebutuhan edukasi, testing koneksi SSH, dan pembela
 
 Berikut adalah tampilan antarmuka **SSH Account Validator**:
 
-```markdown
-![SSH Account Validator UI](assets/Free SSH Account Validator.jpg)
-```
+<div align="center">
+  <img src="./assets/Free SSH Account Validator.jpg" alt="Free SSH Account Validator & Checker" width="470" height="357">
+</div>
 
 ---
 
